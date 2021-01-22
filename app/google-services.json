@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886848915397",
+    "project_id": "search-d330e",
+    "storage_bucket": "search-d330e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886848915397:android:33473cb7d66e19f67f2dac",
+        "android_client_info": {
+          "package_name": "com.park.search"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886848915397-d0pprkpb1bjqufvfiplj96u9lbd5dnck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4dWKSasai1-ih750riIiZJMlCvKhD3TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886848915397-d0pprkpb1bjqufvfiplj96u9lbd5dnck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
